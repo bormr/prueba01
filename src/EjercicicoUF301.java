@@ -8,7 +8,7 @@ public class EjercicicoUF301 {
 		if (num1 >=5 && num1 <=15) {
 				num2 = num1 + 15;
 		}else {
-				num2= num1 + 5;
+				num2= num1 + 6;
 			}
 		System.out.println("la variable num1 es: " + num1);
 		System.out.println("la variable num2 es: " + num2);
